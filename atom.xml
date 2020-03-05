@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-05T13:42:08.165Z</updated>
+    <updated>2020-03-05T13:43:38.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://AlanTuring001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alan Turing&apos;Blog</rights>
     <entry>
-        <title type="html"><![CDATA[买火柴的小女孩(转载)]]></title>
+        <title type="html"><![CDATA[卖火柴的小女孩(转载)]]></title>
         <id>https://AlanTuring001.github.io/post/mai-huo-chai-de-xiao-nu-hai-zhuan-zai/</id>
         <link href="https://AlanTuring001.github.io/post/mai-huo-chai-de-xiao-nu-hai-zhuan-zai/">
         </link>
