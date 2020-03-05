@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-05T13:32:10.425Z</updated>
+    <updated>2020-03-05T13:39:29.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -51,6 +51,8 @@
 <p>本站建立与2020-03-05下午2时许。</p>
 <h3 id="为何建立">为何建立</h3>
 <p>机缘巧合，本人看到了洛谷（一个牛逼oj）日报上讲到了创建博客的方法，于是，就有了这个网站。</p>
+<h3 id="注意">注意</h3>
+<p>本站会有一些转载文章，会明确表明“转载”标签（当然，原创也会有“原创”标识）。欢迎您转发，但同时请您注意：当您转载这里的文章时（不管这里是转载还是原创，请标明“转载”）</p>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <p><s>博主当然就是我啦！</s><br>
 开个玩笑。本人是一名普通的中学生，平时喜欢写点东西，又没有一个平台。建立了之后，就可以快乐的日记啦！！！</p>
@@ -66,6 +68,10 @@
 <p>算了，不说。</p>
 <h3 id="tel">Tel:</h3>
 <p>别想了，QQ都不给你，这怎么可能呢。。。</p>
+<h3 id="e-mail">E-mail</h3>
+<p>tuxiaobai7789@126.com（<strong>相对</strong>常用，一般不用）<br>
+tuxiaobai7789@163.com<br>
+如果您有好的文章想要在这里发布，请QQ私信我或者邮箱发我。请勿骚扰。如果我觉得不错，会在这里发表哦！欢迎各位的来稿！</p>
 ]]></content>
     </entry>
 </feed>
