@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-05T13:43:38.441Z</updated>
+    <updated>2020-03-05T13:47:33.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
-    <subtitle>AlanTuring和他的博客们祝您AK!!</subtitle>
+    <subtitle>你若盛开,蝴蝶自来；你若精彩,天自安排</subtitle>
     <logo>https://AlanTuring001.github.io/images/avatar.png</logo>
     <icon>https://AlanTuring001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alan Turing&apos;Blog</rights>
