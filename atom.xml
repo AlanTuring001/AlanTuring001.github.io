@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-06T13:21:43.591Z</updated>
+    <updated>2020-03-07T01:28:05.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -12,18 +12,34 @@
     <icon>https://AlanTuring001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alan Turing&apos;Blog</rights>
     <entry>
-        <title type="html"><![CDATA[asdfa]]></title>
+        <title type="html"><![CDATA[总序]]></title>
         <id>https://AlanTuring001.github.io/post/传记/</id>
         <link href="https://AlanTuring001.github.io/post/传记/">
         </link>
         <updated>2020-03-06T13:21:11.000Z</updated>
-        <content type="html"><![CDATA[<p>asdf</p>
+        <content type="html"><![CDATA[<p>接下来，我们将要更新的是人物传记。<br>
+主要记载了我发生在我身边的事，以及身边的小伙伴们。<br>
+如果没有被写到，可能是不好写，可能是不熟悉，可能是不能写。<br>
+如果想被写到，请私信我哦！！！</p>
+<h2 id="注意">注意</h2>
+<p>我写传记的目的仅仅在于记录身边事，如果被写到的您觉得这样侵犯了您的隐私，请联系我，我将删除。<br>
+这些传记仅仅是对过去青春的回忆，对各种人的总结。</p>
+<h2 id="目录如果有超链接说明已经被更新">目录(如果有超链接，说明已经被更新)</h2>
+<p>（顺序不分先后）<br>
+zr<br>
+wyy<br>
+cwh<br>
+zxb<br>
+zzz<br>
+cxy<br>
+wyn<br>
+lyy</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[卖火柴的小女孩(转载)]]></title>
-        <id>https://AlanTuring001.github.io/post/mai-huo-chai-de-xiao-nu-hai-zhuan-zai/</id>
-        <link href="https://AlanTuring001.github.io/post/mai-huo-chai-de-xiao-nu-hai-zhuan-zai/">
+        <id>https://AlanTuring001.github.io/post/其他/</id>
+        <link href="https://AlanTuring001.github.io/post/其他/">
         </link>
         <updated>2020-03-05T13:20:33.000Z</updated>
         <content type="html"><![CDATA[<p>天冷极了，下着雪，又快黑了。这是NOIP的前夜。在这又冷又黑的晚上，一个衣衫破烂的小女孩在机房敲着代码。她从班里逃出来的时候还拿着一本算导，但是有什么用呢？那是一本很破旧的书——那么大，一向是她妈妈垫桌角的。她默写SPFA的时候，年级主任突然冲进机房，吓得她把算导都丢掉了。书叫一个学数竞捡起来拿着跑了。他说，他可以用那本书当草纸，证明切比雪夫定理。小女孩只好自己写二叉堆，一双小脚冻得红一块青一块的。她面前的草纸堆得满满的，上面全是DP转移方程。这一整天，没有一个OJ让她AC一道题，她已经交了32遍采药了。</p>
@@ -36,8 +52,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[日志]]></title>
-        <id>https://AlanTuring001.github.io/post/ri-zhi/</id>
-        <link href="https://AlanTuring001.github.io/post/ri-zhi/">
+        <id>https://AlanTuring001.github.io/post/关于/</id>
+        <link href="https://AlanTuring001.github.io/post/关于/">
         </link>
         <updated>2020-03-05T13:18:13.000Z</updated>
         <content type="html"><![CDATA[<h2 id="2020-03-05">2020 - 03 - 05</h2>
