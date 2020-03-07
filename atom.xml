@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-07T04:09:07.495Z</updated>
+    <updated>2020-03-07T04:12:29.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -12,7 +12,7 @@
     <icon>https://AlanTuring001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alan Turing&apos;Blog</rights>
     <entry>
-        <title type="html"><![CDATA[总序]]></title>
+        <title type="html"><![CDATA[传记总序]]></title>
         <id>https://AlanTuring001.github.io/post/传记/</id>
         <link href="https://AlanTuring001.github.io/post/传记/">
         </link>
