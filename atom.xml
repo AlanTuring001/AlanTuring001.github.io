@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-03-10T06:09:26.563Z</updated>
+    <updated>2020-03-10T06:10:10.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -39,8 +39,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[传记总序]]></title>
-        <id>https://AlanTuring001.github.io/post/传记/</id>
-        <link href="https://AlanTuring001.github.io/post/传记/">
+        <id>https://AlanTuring001.github.io/post/传记总序/</id>
+        <link href="https://AlanTuring001.github.io/post/传记总序/">
         </link>
         <updated>2020-03-06T13:21:11.000Z</updated>
         <content type="html"><![CDATA[<p>接下来，我们将要更新的是人物传记。<br>
@@ -52,6 +52,7 @@
 这些传记仅仅是对过去青春的回忆，对各种人的总结。</p>
 <h2 id="目录如果有超链接说明已经被更新">目录(如果有超链接，说明已经被更新)</h2>
 <p>（顺序不分先后）<br>
+<a href="">自传</a><br>
 zr<br>
 wyy<br>
 cwh<br>
