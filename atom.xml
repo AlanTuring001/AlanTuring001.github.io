@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AlanTuring001.github.io</id>
     <title>Alan Turing&apos;Blog</title>
-    <updated>2020-04-11T12:29:50.806Z</updated>
+    <updated>2020-04-24T23:35:25.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AlanTuring001.github.io"/>
     <link rel="self" href="https://AlanTuring001.github.io/atom.xml"/>
@@ -11,6 +11,26 @@
     <logo>https://AlanTuring001.github.io/images/avatar.png</logo>
     <icon>https://AlanTuring001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Alan Turing&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助]]></title>
+        <id>https://AlanTuring001.github.io/post/bang-zhu/</id>
+        <link href="https://AlanTuring001.github.io/post/bang-zhu/">
+        </link>
+        <updated>2020-04-24T23:25:40.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这个板块提供一些关于本站须知的内容<br>
+遇到问题会及时补充</p>
+</blockquote>
+<h2 id="关于转载">关于转载</h2>
+<p>再次重申，本博客旨在积淀生活，发出思考。根据切实需要，提出以下要求：</p>
+<h3 id="1原创文章">1.原创文章</h3>
+<p>转载前，必须向本人发出申请，未经过同意而转载的文章将视为侵权行为，将承担一定的法律责任。可以通过关于板块我的联系方式找到我。<br>
+转发时，在标题栏必须标注“【转载】”（要求格式相同），并在文末著名转载地址。</p>
+<h3 id="2转载文章">2.转载文章</h3>
+<p>其余要求同上，需要注意的是，文末必须保留我的地址和原创地址。</p>
+<p>谢谢各位的合作！！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【转载】CSP-2019 游记]]></title>
         <id>https://AlanTuring001.github.io/post/zhuan-zai-csp-2019-you-ji/</id>
@@ -154,7 +174,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[卖火柴的小女孩(转载)]]></title>
+        <title type="html"><![CDATA[【转载】卖火柴的小女孩]]></title>
         <id>https://AlanTuring001.github.io/post/其他/</id>
         <link href="https://AlanTuring001.github.io/post/其他/">
         </link>
@@ -206,7 +226,8 @@
 <h2 id="联系我呀">📬 联系我呀</h2>
 <h3 id="洛谷账号">洛谷账号：</h3>
 <p>David_A_Haffman<br>
-(最近可能会考虑换名字和头像，如果没有找到，大概就是AlanTuring了)</p>
+(最近可能会考虑换名字和头像，如果没有找到，大概就是AlanTuring了)<br>
+2020年，经研究决定，更名为AlanMTuring</p>
 <h3 id="qq">QQ：</h3>
 <p>算了，不说。</p>
 <h3 id="tel">Tel:</h3>
